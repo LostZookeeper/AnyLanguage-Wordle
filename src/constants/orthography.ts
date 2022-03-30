@@ -27,7 +27,7 @@ export const ORTHOGRAPHY = [
   'x',
   'y',
   'z'
-]
+];
 
 if (CONFIG.normalization) {
   ORTHOGRAPHY.forEach(
