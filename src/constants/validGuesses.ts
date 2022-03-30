@@ -2796,7 +2796,7 @@ export const VALIDGUESSES = [
 'arger',
 'chass',
 'maisd',
-'tilla ',
+'tilla',
 'giret',
 'mamau',
 'pappa',
