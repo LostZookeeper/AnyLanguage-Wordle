@@ -2796,7 +2796,7 @@ export const WORDS = [
 'arger',
 'chass',
 'maisd',
-'tilla ',
+'tilla',
 'giret',
 'mamau',
 'pappa',
