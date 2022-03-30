@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  ‘abain’,
+‘abain’,
 ‘abece’,
 ‘abech’,
 ‘abgot’,
