@@ -97,7 +97,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
 //  )
   return (
     <div>
-      <div className="mb-1 flex justify-center">
+      <div className="flex justify-center mb-1">
         {['q', 'w', 'e', 'r', 't', 'z', 'u', 'i', 'o', 'p'].map((key) => (
           <Key
             value={key}
@@ -108,7 +108,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
           />
         ))}
       </div>
-      <div className="mb-1 flex justify-center">
+      <div className="flex justify-center mb-1">
         {['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'].map((key) => (
           <Key
             value={key}
