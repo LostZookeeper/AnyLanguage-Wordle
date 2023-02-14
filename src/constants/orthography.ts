@@ -19,7 +19,7 @@ export const ORTHOGRAPHY = [
   'h',
   'j',
   'k',
-  'l',
+/*  'l', */
   'y',
   'x',
   'c',
