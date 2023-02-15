@@ -79,7 +79,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
           {t('enterKey')}
         </Key>
         {ORTHOGRAPHY.slice(
-          Math.floor(ORTHOGRAPHY.length * 0.7),
+          Math.floor(ORTHOGRAPHY.length * 0.6),
           ORTHOGRAPHY.length
         ).map((char) => (
           <Key
